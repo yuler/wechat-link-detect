@@ -6,3 +6,7 @@
 
 - [remix](https://remix.run/docs)
 - [shadcn-ui](https://ui.shadcn.com)
+
+## Related
+
+- [epic-stack](https://github.com/epicweb-dev/epic-stack)
